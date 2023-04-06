@@ -134,13 +134,12 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'helloWorld.tex', 'helloWorld Documentation',
-     'Michael Altfield', 'manual'),
+     'Melanie Allen', 'manual'),
 ]
 
 
 # -- Options for manual page output ------------------------------------------
 
-# One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
     (master_doc, 'helloworld', 'helloWorld Documentation',
